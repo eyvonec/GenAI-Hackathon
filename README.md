@@ -65,6 +65,9 @@ Contributions to improve YouTube Trend Title Generator are welcome. Please follo
 5. Push to the branch (`git push origin feature/AmazingFeature`).
 6. Open a Pull Request.
 
+## License
+Distributed under the MIT License. See `LICENSE` file for more information.
+
 ## Acknowledgements
 - [OpenAI](https://openai.com)
 - [Google Trends API](https://trends.google.com/trends/)
